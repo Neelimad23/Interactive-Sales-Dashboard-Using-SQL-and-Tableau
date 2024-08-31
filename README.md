@@ -1,1 +1,1 @@
-# Interactive-Sales-Dashboard-Using-SQL-and-Tableau
+# Sales-Dashboard-Using-SQL-and-Tableau
